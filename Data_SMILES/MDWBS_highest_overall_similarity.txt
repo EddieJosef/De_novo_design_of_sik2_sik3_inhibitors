@@ -1,0 +1,1 @@
+O=C(Cn1c(N2CCOCC2)nc2nc(N3CCOCC3)ncc2c1=O)Nc1ccc(Cl)cn1

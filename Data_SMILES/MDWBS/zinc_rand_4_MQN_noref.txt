@@ -1,0 +1,4 @@
+Cc1ccc(-n2nc3c(c2-n2cccc2)CN(C(=O)c2cc(Cl)ccc2[N+](=O)[O-])C3)cc1C
+CCCN1C(=O)c2c(C(=O)N3CCCCCC3)ncn2C[C@]1(C)C(=O)NCc1ccc(F)cc1
+CCCn1c(=O)c2ccc(C(=O)NC3CCCCC3)cc2n2c(=O)n(CC(=O)NC(C)C)nc12
+CCn1c(=O)n(CC(=O)Nc2cc(C)cc(C)c2)c(=O)c2cnc(-c3ccc(Cl)cc3)nc21

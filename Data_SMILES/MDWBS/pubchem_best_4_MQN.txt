@@ -1,0 +1,4 @@
+CNc1ncc2cc(-c3ccc(-c4ncccc4F)cc3Cl)c(=O)n(C[C@H]3OC[C@H](N)CO3)c2n1
+N#Cc1ccc(N2CCN(c3ccc(N4C[C@H](COc5ccccn5)OC4=O)cc3F)CC2)nc1
+N#Cc1ccc(N2CCN(c3ccc(N4C[C@H](COc5ccncn5)OC4=O)cc3F)CC2)nc1
+Cn1cccc1-c1cc(C(=O)N2CCN(c3ccccc3F)CC2)n(-c2cccc([N+](=O)[O-])c2)n1

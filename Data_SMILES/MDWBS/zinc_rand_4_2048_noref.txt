@@ -1,0 +1,4 @@
+CCOC(=O)c1nc2cnc(NC)nc2n(C)c1=O
+COc1ccc(CN2C(=O)c3cccnc3C2=O)cc1S(=O)(=O)Nc1ccc(F)cc1Cl
+CNc1ncc2c(n1)CN(CC1(N3CCOCC3)CCCCC1)C2=O
+Cc1ncccc1/C=C1/CCOc2cc(Cl)ccc2C1=O

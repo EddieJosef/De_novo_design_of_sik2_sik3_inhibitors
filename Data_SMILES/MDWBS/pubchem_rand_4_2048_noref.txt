@@ -1,0 +1,4 @@
+CC1CN(Cc2nc3c(c(=O)[nH]c(=O)n3C)n2Cc2c(F)cccc2Cl)CC(C)O1
+CC1CCc2cc(F)ccc2N1C(=O)CCCN1C(=O)c2cccnc2C1=O
+O=S(=O)(Nc1ccccc1Cl)c1ccc2nc(-c3ncccc3F)[nH]c2c1
+O=C(NCc1cccc(F)c1)C1CCN(c2nc3cccnc3n(Cc3ccccc3)c2=O)CC1

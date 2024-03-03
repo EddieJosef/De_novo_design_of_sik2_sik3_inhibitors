@@ -1,0 +1,4 @@
+COc1ccc(C)cc1NC(=O)Cn1cnc2nc(N3CCOCC3)ncc2c1=O
+Cn1c(=O)[nH]c(N2CCOCC2)c(Cc2ccc(F)cc2Cl)c1=O
+Cn1c(=O)c2c(nc(CN3CCN(c4cccc(Cl)c4)CC3)n2CC(N)=O)n(C)c1=O
+Cc1c(C)n2c3c(=O)n(CCN4CCOCC4)c(=O)n(C)c3nc2n1-c1ccc(Cl)cc1
